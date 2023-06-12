@@ -1,0 +1,3 @@
+- I'm currently learning about Rust, Cryptography, and computer hardware.
+- I’m looking to collaborate on anything that I can meaningfully contribute to.
+- You can reach me at remo3467@gmail.com
